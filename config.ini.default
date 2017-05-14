@@ -1,0 +1,8 @@
+[Site]
+URL=''
+HashFile='last_hash.txt'
+CheckInterval=10
+
+[Notifications]
+Method='SMS'
+Recipients=''
