@@ -33,6 +33,7 @@ def hash_match(content_hash, hash_store):
 def notify(method, recipients, message):
 	if method == 'sms':
 		# sms logic - depends recipients, message
+		pass
 	else:
 		return False
 
